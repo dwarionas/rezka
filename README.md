@@ -1,10 +1,10 @@
 
 
-# About
+# HDREZKA Parser & Grabber
 
 Package provides an complete API for HDrezka webservers
 
-> **Supports client fetching and server fetching**
+> **Supports client and server usage**
 
 ## Features
 
