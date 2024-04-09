@@ -2,9 +2,9 @@
 
 # HDREZKA Parser & Grabber
 
-Package provides an complete API for HDrezka webservers
+Package provides an complete access for HDrezka servers
 
-> **Supports client and server usage**
+> **> Use this package only in NodeJS environment. (Server or SSR usage)**
 
 ## Features
 
